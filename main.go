@@ -1,9 +1,7 @@
 package main
 
 import (
-	// "gopl/ch1"
-	// "gopl/ch2"
-	"gopl/ch3"
+	"gopl/mch9"
 )
 
 func main() {
@@ -21,5 +19,18 @@ func main() {
 
 	// ch3-------------
 	// ch3.Integrate()
-	ch3.Sring()
+	// ch3.Sring()
+
+	// ch4-------------
+	// ch4.Arr()
+	// ch4.Slic()
+	// ch4.Mp()
+	// ch4.Emp()
+
+	// ch5-------------
+	// ch5.Anon()
+	// ch5.ToSort()
+
+	// m_ch9-------------
+	mch9.Nscan()
 }
